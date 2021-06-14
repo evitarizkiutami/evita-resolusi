@@ -1,0 +1,4 @@
+EVITA RESOLUSI
+-konsisten belajar mvc dan codeigniter
+-membuat crud
+-menguasai php
